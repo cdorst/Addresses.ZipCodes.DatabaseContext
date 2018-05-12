@@ -19,8 +19,8 @@ Name | Description
 
 Name | Status
 ---- | ------
-[CDorst.Addresses.ZipCodes](https://github.com/CDorst/Addresses.ZipCodes) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-zipcodes.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-zipcodes) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.ZipCodes.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.ZipCodes)
 [CDorst.Addresses.States.DatabaseContext](https://github.com/CDorst/Addresses.States.DatabaseContext) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-states-databasecontext.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-states-databasecontext) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.States.DatabaseContext.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.States.DatabaseContext)
+[CDorst.Addresses.ZipCodes](https://github.com/CDorst/Addresses.ZipCodes) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-zipcodes.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-zipcodes) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.ZipCodes.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.ZipCodes)
 
 ## Dependents
 
@@ -38,7 +38,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.4
+1.0.5
 
 ## Metaproject
 
